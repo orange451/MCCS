@@ -1,0 +1,15 @@
+name: MinecraftCounterStrike
+main: com.orange451.mccs.MCCS
+version: 1.0
+website: http://orangegaming.webatu.com/
+author: orange451
+commands: 
+  cs:
+    description:
+    usage:
+  test:
+    description:
+    usage:
+  team:
+    description:
+    usage:
